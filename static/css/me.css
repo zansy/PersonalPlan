@@ -93,6 +93,11 @@
         padding-right: 0 !important;
         padding-left: 0 !important;
     }
+
+    .m-padded-lr-clear{
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
     .m-mobile-wide{
         width: 100% !important;
     }
